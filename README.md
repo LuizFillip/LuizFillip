@@ -1,7 +1,7 @@
 ## Saudações👋 :space_invader: :alien:
 
 
-Sou graduado em licenciatura em física pela Universidade Estadual da Paraíba (UEPB) e possuo mestrado em física pela Uniersidade Federal de Campina Grande (UFCG), dois instituitos localizados em Campina Grande-PB, Brasil. Meu primeiro contato com programação e analise de dados ocorreram durante a graduação, mais especificamente com a linguagem Python. A motivação durante um projeto de iniciação ciêntifica, onde precisaria trabalhar com grandes bancos de dados meteorologicos. Desde de então, programar se tornou uma das minhas maiores paixões.
+Sou graduado em licenciatura em física pela Universidade Estadual da Paraíba (UEPB) e possuo mestrado em física pela Uniersidade Federal de Campina Grande (UFCG), dois instituitos localizados em Campina Grande-PB, Brasil. Meu primeiro contato com programação e analise de dados ocorreram durante a graduação, mais especificamente com a linguagem Python. A motivação durante um projeto de iniciação ciêntifica, onde precisaria trabalhar com grandes bancos de dados meteorologicos. 
 
 Atualmente, sou aluno de doutorado em curso geofísica espacial pelo Instituito Nacional de Pesquisas Espaciais (INPE) em São José dos Campos-SP, Brazil.  Minha aréa de pesquisa envolve o acoplamento ionosfera-termosfera, irregularidades ionosfericas (e.g., bolhas de plasma) e ondas de gravidade atmosféricas. Venho adquirindo experiência em programação devido gigantesco banco de dados coletados por diferentes instrumentos de observação atmosférica-ionosférica, por exemplo: satélites, radares, imageadores e entre outros. 
 
