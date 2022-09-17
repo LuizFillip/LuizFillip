@@ -1,7 +1,7 @@
-## Saudações👋 :space_invader: :alien:
+## Greetings👋  :alien:
 
 
-I have a degree in physics from the Universidade Estadual da Paraíba (UEPB) and a master's degree in physics from the Federal University of Campina Grande (UFCG), two institutions located in Campina Grande-PB, Brazil. My first contact with programming and data analysis occurred during graduation, more specifically with the Python language. The motivation during a scientific initiation project, where I would need to work with large meteorological databases. I am currently a doctoral student at the National Institute for Space Research (INPE) in São José dos Campos-SP. My research area, space geophysics, encompasses ionosphere-thermosphere coupling, ionospheric irregularities (e.g., plasma bubbles) and atmospheric gravity waves.
+I have a degree in physics from the Universidade Estadual da Paraíba (UEPB) and a master's degree in physics from the Federal University of Campina Grande (UFCG), two institutions located in Campina Grande-PB, Brazil. My first contact with programming and data analysis occurred during graduation, more specifically with the Python language. The motivation during a scientific initiation project, where I would need to work with large meteorological databases. I am currently a P.h.D candidate at the National Institute for Space Research (INPE) in São José dos Campos-SP. My research area, space geophysics, encompasses ionosphere-thermosphere coupling, ionospheric irregularities (e.g., plasma bubbles) and atmospheric gravity waves.
 
 
 This repository aims to share some projects involving the analysis of data collected by different instruments for monitoring space weather, in addition to numerical analysis and coding challenges.
