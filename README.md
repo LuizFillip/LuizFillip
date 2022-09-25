@@ -14,6 +14,7 @@ This repository aims to share some projects involving the analysis of data colle
     - [Magnetometers](https://github.com/LuizFillip/Magnetometers): Pipeline of geomagnetic field components data obtained by magnetometers
     - [Solar and Magnetic indexes](https://github.com/LuizFillip/Geomagnetic-Solar-Indices): Plotting of magnetic disturbance indices
     - [GOLD](https://github.com/LuizFillip/GOLD): Pipeline of GOLD-NASA satellite data
+    - [Imager](https://github.com/LuizFillip/Imager): Pipeline of All-Sky images
     
 - Numerical methods:
     - [Numerical Methods](https://github.com/LuizFillip/NumericalMethods): Implementation of mathematical methods using in numerical analysis
