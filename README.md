@@ -12,7 +12,7 @@ This repository aims to share some projects involving the analysis of data colle
     - [Digisonde](https://github.com/LuizFillip/Digisonde): Pipeline of virtual height data and critical frequencies obtained by digisonde
     - [Fabry-Perot](https://github.com/LuizFillip/Fabry-Perot): Pipeline of temperature data and neutral winds obtained with a Fabry-Perot interferometer
     - [Magnetometers](https://github.com/LuizFillip/Magnetometers): Pipeline of geomagnetic field components data obtained by magnetometers
-    - [Solar and Magnetic indexes](https://github.com/LuizFillip/Geomagnetic-Solar-Indices): Plotting of magnetic disturbance indices
+    - [Geophysical indexes](https://github.com/LuizFillip/Geomagnetic-Solar-Indices): Plotting of geomagnetic and solar indices
     - [GOLD](https://github.com/LuizFillip/GOLD): Pipeline of GOLD-NASA satellite data
     - [Imager](https://github.com/LuizFillip/Imager): Pipeline of All-Sky images
     - [Rayleigh-Taylor](https://github.com/LuizFillip/Rayleigh-Taylor): Compute growth rate of Rayleigh-Taylor Instability as plasma bubbles generator mecanism
