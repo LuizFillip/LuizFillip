@@ -9,13 +9,13 @@ This repository aims to share some projects involving the analysis of data colle
 
 - Data analysis:
     - [GNSS](https://github.com/LuizFillip/GNSS): Computation, correction and mapping of total electron content (TEC) from GNSS systems 
-    - [Digisonde](https://github.com/LuizFillip/Digisonde): Pipeline of virtual height, critical frequencies and vertical drift from digisonde data
-    - [Fabry-Perot](https://github.com/LuizFillip/Fabry-Perot): Pipeline of temperature data and neutral winds data from Fabry-Perot interferometer
-    - [Magnetometers](https://github.com/LuizFillip/Magnetometers): Pipeline of geomagnetic field components data obtained by magnetometers
+    - [Digisonde](https://github.com/LuizFillip/Digisonde): Pipeline/plotting of virtual height, critical frequencies and vertical drift from digisonde data
+    - [Fabry-Perot](https://github.com/LuizFillip/Fabry-Perot): Pipeline/plotting of temperature data and neutral winds data from Fabry-Perot interferometer
+    - [Magnetometers](https://github.com/LuizFillip/Magnetometers): Plotting of geomagnetic field components data obtained by magnetometers
     - [Geophysical indexes](https://github.com/LuizFillip/Geomagnetic-Solar-Indices): Plotting of geomagnetic and solar indices
-    - [GOLD](https://github.com/LuizFillip/GOLD): Pipeline of GOLD-NASA satellite data
-    - [Imager](https://github.com/LuizFillip/Imager): Pipeline of All-Sky images
-    - [Rayleigh-Taylor](https://github.com/LuizFillip/Rayleigh-Taylor): Compute growth rate of Rayleigh-Taylor Instability for ionopheric irregularities
+    - [GOLD](https://github.com/LuizFillip/GOLD): Pipeline/plotting of GOLD-NASA satellite data
+    - [Imager](https://github.com/LuizFillip/Imager): All-Sky images processing
+    - [Rayleigh-Taylor](https://github.com/LuizFillip/Rayleigh-Taylor): Compute growth rate of Rayleigh-Taylor Instability mecanism 
     
     
 - Numerical methods:
