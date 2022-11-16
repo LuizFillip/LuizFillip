@@ -16,6 +16,7 @@ This repository aims to share some projects involving the analysis of data colle
     - [GOLD](https://github.com/LuizFillip/GOLD): Pipeline/plotting of GOLD-NASA satellite data
     - [Imager](https://github.com/LuizFillip/Imager): All-Sky images processing
     - [Rayleigh-Taylor](https://github.com/LuizFillip/Rayleigh-Taylor): Compute growth rate of Rayleigh-Taylor Instability mecanism 
+    - [FormoSat-COSMIC](https://github.com/LuizFillip/COSMIC): Pipeline/Plotting of COMISC 1 and 2 missions
     
     
 - Numerical methods:
