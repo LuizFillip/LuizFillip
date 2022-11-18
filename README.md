@@ -15,7 +15,7 @@ This repository aims to share some projects involving the analysis of data colle
     - [Geophysical indexes](https://github.com/LuizFillip/Geomagnetic-Solar-Indices): Plotting of geomagnetic and solar indices
     - [GOLD](https://github.com/LuizFillip/GOLD): Pipeline/plotting of GOLD-NASA satellite data
     - [Imager](https://github.com/LuizFillip/Imager): All-Sky images processing
-    - [Rayleigh-Taylor](https://github.com/LuizFillip/Rayleigh-Taylor): Compute Rayleigh-Taylor Instability growth rates ($\gamma_{RT}$) mecanism 
+    - [Rayleigh-Taylor](https://github.com/LuizFillip/Rayleigh-Taylor): Compute Rayleigh-Taylor Instability growth rates ($\\gamma_{RT}$) mecanism 
     - [FormoSat-COSMIC](https://github.com/LuizFillip/COSMIC): Pipeline/Plotting of COMISC 1 and 2 missions
     
     
