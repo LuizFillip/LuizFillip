@@ -13,10 +13,10 @@ This repository aims to share some projects involving the analysis of data colle
     - [Fabry-Perot](https://github.com/LuizFillip/Fabry-Perot): Pipeline/plotting of temperature data and neutral winds data from Fabry-Perot interferometer
     - [Magnetometers](https://github.com/LuizFillip/Magnetometers): Plotting of geomagnetic field components data obtained by magnetometers
     - [Geophysical indexes](https://github.com/LuizFillip/Geomagnetic-Solar-Indices): Plotting of geomagnetic and solar indices
-    - [GOLD](https://github.com/LuizFillip/GOLD): Pipeline/plotting of GOLD-NASA satellite data
+    - [GOLD](https://github.com/LuizFillip/GOLD): Pipeline/plotting of GOLD-NASA satellite mission
     - [Imager](https://github.com/LuizFillip/Imager): All-Sky images processing
     - [Rayleigh-Taylor](https://github.com/LuizFillip/Rayleigh-Taylor): Compute Rayleigh-Taylor Instability growth rates mecanism 
-    - [FormoSat-COSMIC](https://github.com/LuizFillip/COSMIC): Pipeline/Plotting of COMISC 1 and 2 missions
+    - [FormoSat-COSMIC](https://github.com/LuizFillip/COSMIC): Pipeline/Plotting of FormoSat-COSMIC 1 and 2 satellite missions
     
     
 - Numerical methods:
