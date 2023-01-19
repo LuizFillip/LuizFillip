@@ -3,8 +3,6 @@
 
 I have a degree in physics from the Universidade Estadual da Paraíba (UEPB) and a master's degree in physics from the Federal University of Campina Grande (UFCG), two institutions located in Campina Grande-PB, Brazil. My first contact with the Python programming and data analysis occurred during graduation when i started my scientific initiation project. Currently, I am P.h.D candidate at the National Institute for Space Research (INPE) at São José dos Campos-SP. My research area, space physics, encompasses ionosphere-thermosphere coupling, ionospheric irregularities (e.g., Equatorial Plasma Bubbles, EPBs) and atmospheric gravity waves (AGWs).
 
-![Luiz Fillip GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFillip&show_icons=true&theme=dark)
-
 This repository aims to share some projects involving the analysis of data collected by different space weather instruments monitoring, numerical analysis implementation and coding challenges.
 
 
