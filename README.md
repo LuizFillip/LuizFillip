@@ -26,6 +26,6 @@ This repository aims to share some projects involving the analysis of data colle
     - [Junk Code](https://github.com/LuizFillip/JunkCode): Python coding exercises and challenges
     - [Web Scraping](https://github.com/LuizFillip/Webscrape): Use Request and BeautifulSoup libraries for geophysical data download and 'web extraction'
     
-
-
+- Space Geophysics
+    - [theory](https://github.com/LuizFillip/Space-Geophysics/tree/main/theory): Theory background about geophysical mecanisms (ionosphere and atmosphere)
 
