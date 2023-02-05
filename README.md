@@ -1,7 +1,7 @@
 ## Greetings👋  :alien:
 
 
-I have a degree in physics from the Universidade Estadual da Paraíba (UEPB) and a master's degree in physics from the Federal University of Campina Grande (UFCG), two institutions located in Campina Grande-PB, Brazil. My first contact with the Python programming and data analysis occurred during graduation when i started my scientific initiation project. Currently, I am P.h.D candidate at the National Institute for Space Research (INPE) at São José dos Campos-SP. My research area, space physics, encompasses ionosphere-thermosphere coupling, ionospheric irregularities (e.g., Equatorial Plasma Bubbles, EPBs) and atmospheric gravity waves (AGWs).
+I have a degree in physics from the Universidade Estadual da Paraíba (UEPB) and a master's degree in physics from the Federal University of Campina Grande (UFCG), two institutions located in Campina Grande-PB, Brazil. Currently, I am P.h.D candidate at the National Institute for Space Research (INPE) at São José dos Campos-SP. My research area, space physics, encompasses ionosphere-thermosphere coupling, ionospheric irregularities (e.g., Equatorial Plasma Bubbles, EPBs) and atmospheric gravity waves (AGWs). Since then, I have been specializing in geophysical data analysis with Python language.
 
 This repository aims to share some projects involving the analysis of data collected by different space weather instruments monitoring, numerical analysis implementation and coding challenges.
 
@@ -27,5 +27,5 @@ This repository aims to share some projects involving the analysis of data colle
     - [Web Scraping](https://github.com/LuizFillip/Webscrape): Use Request and BeautifulSoup libraries for geophysical data download and 'web extraction'
     
 - Space Geophysics
-    - [theory](https://github.com/LuizFillip/Space-Geophysics/tree/main/theory): Theory background about geophysical mecanisms (ionosphere and atmosphere)
-
+    - [Neutral winds](https://github.com/LuizFillip/Space-Geophysics/blob/main/theory/winds.md)): Theory background about thermospheric winds dynamics
+    - [Equatorial Plasma Bubbles](https://github.com/LuizFillip/Space-Geophysics/blob/main/theory/vertical_drift.md): Main features about EPBs
