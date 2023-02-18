@@ -16,7 +16,7 @@ This repository aims to share some projects involving the analysis of data colle
     - [Imager](https://github.com/LuizFillip/Imager): All-Sky images processing
     - [Rayleigh-Taylor](https://github.com/LuizFillip/Rayleigh-Taylor): Compute Rayleigh-Taylor Instability growth rates mecanism 
     - [FormoSat-COSMIC](https://github.com/LuizFillip/COSMIC): Pipeline/Plotting of FormoSat-COSMIC 1 and 2 satellite missions
-    
+    - [Swarm](soon): Pipeline/Plotting of Swarm satellite missions
     
 - Numerical methods:
     - [Least-Squares](https://github.com/LuizFillip/NumericalMethods/blob/main/leastSquares.py): The method of least squares implementation by: matriz operation, cramer rule and curve fitting (Scipy function)
@@ -27,5 +27,5 @@ This repository aims to share some projects involving the analysis of data colle
     - [Web Scraping](https://github.com/LuizFillip/Webscrape): Use Request and BeautifulSoup libraries for geophysical data download and 'web extraction'
     
 - Space Geophysics
-    - [Neutral winds](https://github.com/LuizFillip/Space-Geophysics/blob/main/theory/winds.md)): Theory background about thermospheric winds dynamics
+    - [Neutral winds](https://github.com/LuizFillip/Space-Geophysics/blob/main/theory/winds.md): Theory background about thermospheric winds dynamics
     - [Equatorial Plasma Bubbles](https://github.com/LuizFillip/Space-Geophysics/blob/main/theory/vertical_drift.md): Main features about EPBs
