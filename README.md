@@ -18,7 +18,8 @@ This repository aims to share some projects involving the analysis of data colle
     - [GEO](https://github.com/LuizFillip/GEO): Basic attributes in geophysics: mapping, terminators and geomagnetic lines
     - [FormoSat-COSMIC](https://github.com/LuizFillip/COSMIC): Pipeline/Plotting of FormoSat-COSMIC 1 and 2 satellite missions
     - [Swarm](soon): Pipeline/Plotting of Swarm satellite missions (COMING SOON)
-    
+    - [Data comparation](https://github.com/LuizFillip/Liken): Plotting data comparation for all intstruments
+    - 
 - Numerical methods:
     - [Least-Squares](https://github.com/LuizFillip/NumericalMethods/blob/main/leastSquares.py): The method of least squares implementation by: matriz operation, cramer rule and curve fitting (Scipy function)
     - [Fourier interpolation](https://github.com/LuizFillip/NumericalMethods/blob/main/FourierMirror.py): Use fourier series for data interpolation 
