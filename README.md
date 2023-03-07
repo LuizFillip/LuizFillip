@@ -17,9 +17,10 @@ This repository aims to share some projects involving the analysis of data colle
     - [Rayleigh-Taylor](https://github.com/LuizFillip/Rayleigh-Taylor): Compute Rayleigh-Taylor Instability growth rates mecanism 
     - [GEO](https://github.com/LuizFillip/GEO): Basic attributes in geophysics: mapping, terminators and geomagnetic lines
     - [FormoSat-COSMIC](https://github.com/LuizFillip/COSMIC): Pipeline/Plotting of FormoSat-COSMIC 1 and 2 satellite missions
-    - [Swarm](soon): Pipeline/Plotting of Swarm satellite missions (COMING SOON)
+    - [Swarm](comming soon): Pipeline/Plotting of Swarm satellite missions (COMING SOON)
     - [Data comparation](https://github.com/LuizFillip/Liken): Plotting data comparation for all intstruments
-    - 
+    - [Atmopheric Models](https://github.com/LuizFillip/Atmospheric-models): Data plotting of modeled geophysical data (IRI-16, HWM-14 and MSISE-00)
+  
 - Numerical methods:
     - [Least-Squares](https://github.com/LuizFillip/NumericalMethods/blob/main/leastSquares.py): The method of least squares implementation by: matriz operation, cramer rule and curve fitting (Scipy function)
     - [Fourier interpolation](https://github.com/LuizFillip/NumericalMethods/blob/main/FourierMirror.py): Use fourier series for data interpolation 
