@@ -1,9 +1,9 @@
 ## Greetings👋  :alien:
 
 
-I have a degree in physics from the State University of Paraiba (UEPB) and a master's degree in physics from the Federal University of Campina Grande (UFCG). Currently, I am P.h.D candidate at the National Institute for Space Research (INPE) at São José dos Campos-SP, Brazil. My research area, space physics, encompasses ionosphere-thermosphere coupling, ionospheric irregularities (e.g., Equatorial Plasma Bubbles, EPBs) and atmospheric gravity waves (AGWs). Since then, I have been specializing in geophysical data analysis with Python language.
+I have a degree in physics from the State University of Paraiba (UEPB) and a master's degree in physics from the Federal University of Campina Grande (UFCG). Currently, I am P.h.D candidate at the National Institute for Space Research (INPE) at São José dos Campos-SP, Brazil. My research area, space physics, encompasses ionosphere-thermosphere coupling, ionospheric irregularities (e.g., Equatorial Plasma Bubbles, EPBs) and atmospheric gravity waves (AGWs). Since then, I have been specializing in geophysical data analysis.
 
-This repository aims to share some projects involving the analysis of data collected by different space weather instruments monitoring, numerical analysis implementation and coding challenges.
+This repository aims to share some projects involving the data analysis collected from different instruments for space weather monitoring, moreover numerical methods and coding challenges.
 
 
 - Data analysis:
@@ -17,9 +17,9 @@ This repository aims to share some projects involving the analysis of data colle
     - [Rayleigh-Taylor](https://github.com/LuizFillip/Rayleigh-Taylor): Compute Rayleigh-Taylor Instability growth rates mecanism 
     - [GEO](https://github.com/LuizFillip/GEO): Basic attributes in geophysics: mapping, terminators and geomagnetic lines
     - [FormoSat-COSMIC](https://github.com/LuizFillip/COSMIC): Pipeline/Plotting of FormoSat-COSMIC 1 and 2 satellite missions
-    - [Swarm](comming soon): Pipeline/Plotting of Swarm satellite missions (COMING SOON)
     - [Data comparation](https://github.com/LuizFillip/Liken): Plotting data comparation for all intstruments
     - [Atmopheric Models](https://github.com/LuizFillip/Atmospheric-models): Data plotting of modeled geophysical data (IRI-16, HWM-14 and MSISE-00)
+    - [Swarm](comming soon): Pipeline/Plotting of Swarm satellite missions (COMING SOON)
   
 - Numerical methods:
     - [Least-Squares](https://github.com/LuizFillip/NumericalMethods/blob/main/leastSquares.py): The method of least squares implementation by: matriz operation, cramer rule and curve fitting (Scipy function)
