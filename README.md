@@ -29,6 +29,3 @@ This repository aims to share some projects involving the data analysis collecte
     - [Junk Code](https://github.com/LuizFillip/JunkCode): Python coding exercises and challenges
     - [Web Scraping](https://github.com/LuizFillip/Webscrape): Use Request and BeautifulSoup libraries for geophysical data download and getting from websites 
     
-- Space Geophysics
-    - [Neutral winds](https://github.com/LuizFillip/Space-Geophysics/blob/main/theory/winds.md): Theory background about thermospheric winds dynamics
-    - [Equatorial Plasma Bubbles](https://github.com/LuizFillip/Space-Geophysics/blob/main/theory/vertical_drift.md): Main features about EPBs
