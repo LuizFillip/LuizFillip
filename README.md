@@ -19,7 +19,7 @@ This repository aims to share some projects involving the data analysis collecte
     - [FormoSat-COSMIC](https://github.com/LuizFillip/COSMIC): Pipeline/Plotting of FormoSat-COSMIC 1 and 2 satellite missions
     - [Data comparation](https://github.com/LuizFillip/Liken): Plotting data comparation for all intstruments
     - [Atmopheric Models](https://github.com/LuizFillip/Atmospheric-models): Data plotting of modeled geophysical data (IRI-16, HWM-14 and MSISE-00)
-    - [Swarm](comming soon): Pipeline/Plotting of Swarm satellite missions (COMING SOON)
+    - [Flux Tube](https://github.com/LuizFillip/FluxTube): Implementaion of integrated parameters along magnetic field lines and plotting
   
 - Numerical methods:
     - [Least-Squares](https://github.com/LuizFillip/NumericalMethods/blob/main/leastSquares.py): The method of least squares implementation by: matriz operation, cramer rule and curve fitting (Scipy function)
@@ -27,5 +27,6 @@ This repository aims to share some projects involving the data analysis collecte
     
 - Coding
     - [Junk Code](https://github.com/LuizFillip/JunkCode): Python coding exercises and challenges
+    - [Code Wars](https://github.com/LuizFillip/CodeWars): Coding kata challenges from code wars
     - [Web Scraping](https://github.com/LuizFillip/Webscrape): Use Request and BeautifulSoup libraries for geophysical data download and getting from websites 
     
