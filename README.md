@@ -21,6 +21,7 @@ This repository aims to share some projects involving the data analysis collecte
     - [Atmopheric Models](https://github.com/LuizFillip/Atmospheric-models): Data plotting of modeled geophysical data (IRI-16, HWM-14 and MSISE-00)
     - [Flux Tube](https://github.com/LuizFillip/FluxTube): Implementaion of integrated parameters along magnetic field lines and plotting
     - [Ionosphere](https://github.com/LuizFillip/Ionosphere): Solve and plotting ionospheric parameters
+    - [Atmosphere](https://github.com/LuizFillip/Atmosphere): Plotting atmosphere equations
     
 - Numerical methods:
     - [Least-Squares](https://github.com/LuizFillip/NumericalMethods/blob/main/leastSquares.py): The method of least squares implementation by: matriz operation, cramer rule and curve fitting (Scipy function)
