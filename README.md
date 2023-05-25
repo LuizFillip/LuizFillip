@@ -7,7 +7,6 @@ This repository aims to share some projects involving the data analysis collecte
 
 
 - Data analysis:
-    - [GNSS](https://github.com/LuizFillip/GNSS): Computation, correction and mapping of total electron content (TEC) measured by GNSS systems
     - [Digisonde](https://github.com/LuizFillip/Digisonde): Pipeline/plotting of virtual height, critical frequencies and vertical drift measured by digisonde
     - [Fabry-Perot](https://github.com/LuizFillip/Fabry-Perot): Pipeline/plotting of temperature and neutral winds measured by a Fabry-Perot interferometer
     - [Magnetometers](https://github.com/LuizFillip/Magnetometers): Plotting of geomagnetic field components data measured by magnetometers
