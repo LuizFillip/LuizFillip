@@ -13,12 +13,10 @@ This repository aims to share some projects involving the data analysis collecte
     - [Geophysical indexes](https://github.com/LuizFillip/Geomagnetic-Solar-Indices): Plotting of planetary disturbance indexes (geomagnetic and solar indicators) 
     - [GOLD](https://github.com/LuizFillip/GOLD): Pipeline/plotting of products from GOLD-NASA satellite mission
     - [Imager](https://github.com/LuizFillip/Imager): All-Sky images processing
-    - [Rayleigh-Taylor](https://github.com/LuizFillip/Rayleigh-Taylor): Compute Rayleigh-Taylor Instability growth rates mecanism 
     - [GEO](https://github.com/LuizFillip/GEO): Basic attributes in geophysics: mapping, terminators and geomagnetic lines
     - [FormoSat-COSMIC](https://github.com/LuizFillip/COSMIC): Pipeline/Plotting of FormoSat-COSMIC 1 and 2 satellite missions
     - [Data comparation](https://github.com/LuizFillip/Liken): Plotting data comparation for all intstruments
     - [Atmopheric Models](https://github.com/LuizFillip/Atmospheric-models): Data plotting of modeled geophysical data (IRI-16, HWM-14 and MSISE-00)
-    - [Flux Tube](https://github.com/LuizFillip/FluxTube): Implementaion of integrated parameters along magnetic field lines and plotting
     - [Ionosphere](https://github.com/LuizFillip/Ionosphere): Solve and plotting ionospheric parameters
     - [Atmosphere](https://github.com/LuizFillip/Atmosphere): Plotting atmosphere equations
     
