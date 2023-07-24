@@ -7,18 +7,18 @@ This repository aims to share some projects involving the data analysis collecte
 
 
 - Data analysis:
-    - [Digisonde](https://github.com/LuizFillip/Digisonde): Pipeline/plotting of virtual height, critical frequencies and vertical drift measured by digisonde
-    - [Fabry-Perot](https://github.com/LuizFillip/Fabry-Perot): Pipeline/plotting of temperature and neutral winds measured by a Fabry-Perot interferometer
-    - [Magnetometers](https://github.com/LuizFillip/Magnetometers): Plotting of geomagnetic field components data measured by magnetometers
+    - [Digisonde](https://github.com/LuizFillip/Digisonde): Pipeline of reduced data and DRIFT-X (doppler technique) measured by digisonde (virtual height, critical frequencies, and others)
+    - [Fabry-Perot](https://github.com/LuizFillip/Fabry-Perot): Pipeline of temperature and neutral winds measured by a Fabry-Perot interferometer
+    - [Magnetometers](https://github.com/LuizFillip/Magnetometers): Reduced of geomagnetic field components data measured by magnetometers
     - [Geophysical indexes](https://github.com/LuizFillip/Geomagnetic-Solar-Indices): Plotting of planetary disturbance indexes (geomagnetic and solar indicators) 
-    - [GOLD](https://github.com/LuizFillip/GOLD): Pipeline/plotting of products from GOLD-NASA satellite mission
+    - [GOLD](https://github.com/LuizFillip/GOLD): Pipeline of products from GOLD-NASA satellite mission
     - [Imager](https://github.com/LuizFillip/Imager): All-Sky images processing
     - [GEO](https://github.com/LuizFillip/GEO): Basic attributes in geophysics: mapping, terminators and geomagnetic lines
-    - [FormoSat-COSMIC](https://github.com/LuizFillip/COSMIC): Pipeline/Plotting of FormoSat-COSMIC 1 and 2 satellite missions
+    - [FormoSat-COSMIC](https://github.com/LuizFillip/COSMIC): Pipeline of FormoSat-COSMIC 1 and 2 satellite missions
     - [Aeronomy-plotting](https://github.com/LuizFillip/Aeronomy-plots): Plotting data correlation, timeseries, seazonality and others plot types for different models and intstruments
     - [Atmopheric Models](https://github.com/LuizFillip/Atmospheric-models): Data plotting of modeled geophysical data (IRI-16, HWM-14 and MSISE-00)
     - [Ionosphere](https://github.com/LuizFillip/Ionosphere): Solve and plotting ionospheric parameters
-    - [Atmosphere](https://github.com/LuizFillip/Atmosphere): Plotting atmosphere equations
+    - [Atmosphere](https://github.com/LuizFillip/Atmosphere): Pipeline of atmosphere equations and numerical calculus of aeronomy parameters
     
 - Numerical methods:
     - [Least-Squares](https://github.com/LuizFillip/NumericalMethods/blob/main/leastSquares.py): The method of least squares implementation by: matriz operation, cramer rule and curve fitting (Scipy function)
