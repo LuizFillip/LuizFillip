@@ -54,7 +54,7 @@ Learn how to use the Request and BeautifulSoup libraries for web scraping geophy
 I am a firm believer in the power of collaboration and welcome contributions from fellow enthusiasts and researchers. If you have any ideas for new projects, code improvements, or general feedback, please feel free to open issues or submit pull requests.
 
 # Contact Me
-If you have any questions, suggestions, or just want to connect, feel free to reach out. You can contact me via email at [your.email@example.com].
+If you have any questions, suggestions, or just want to connect, feel free to reach out. You can contact me via email at [luizfillip6@gmail.com].
 
 Thank you for visiting this repository, and I hope you find the projects here both inspiring and informative!
 
