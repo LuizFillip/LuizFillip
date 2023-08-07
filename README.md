@@ -14,23 +14,17 @@ In this repository, you will find a collection of data analysis projects related
 
 - [Magnetometers](https://github.com/LuizFillip/Magnetometers): In this project, we analyze and process data from magnetometers, which provide valuable information about geomagnetic field components.
 
-- [Geophysical Indexes](): Explore planetary disturbance indexes, including geomagnetic and solar indicators, through informative visualizations and plots.
+- [Geophysical Indexes](https://github.com/LuizFillip/PlanetaryIndices): Explore planetary disturbance indexes, including geomagnetic and solar indicators, through informative visualizations and plots.
 
-- GOLD: This project deals with the analysis of products obtained from the GOLD-NASA satellite mission, providing valuable insights into space weather phenomena.
+- [Imager](https://github.com/LuizFillip/Imager): Dive into the fascinating world of all-sky images processing for a comprehensive understanding of atmospheric phenomena.
 
-- Imager: Dive into the fascinating world of all-sky images processing for a comprehensive understanding of atmospheric phenomena.
+- [GEO](https://github.com/LuizFillip/GEO): Gain insights into basic attributes in geophysics, including mapping, terminators, and geomagnetic lines.
 
-- GEO: Gain insights into basic attributes in geophysics, including mapping, terminators, and geomagnetic lines.
+- [Aeronomy-plotting](https://github.com/LuizFillip/Aeronomy-plots): Explore various data correlation, timeseries, seasonality, and other plot types for different models and instruments in the field of aeronomy.
 
-- FormoSat-COSMIC: This pipeline focuses on the analysis of data from FormoSat-COSMIC 1 and 2 satellite missions, providing crucial data for atmospheric and ionospheric research.
+- [Aeronomy-models](https://github.com/LuizFillip/Aeronomy-models): Dive into the world of modeled geophysical data (IRI-16, HWM-14, and MSISE-00) and gain valuable insights into atmospheric phenomena.
 
-- Aeronomy-plotting: Explore various data correlation, timeseries, seasonality, and other plot types for different models and instruments in the field of aeronomy.
-
-- Atmospheric Models: Dive into the world of modeled geophysical data (IRI-16, HWM-14, and MSISE-00) and gain valuable insights into atmospheric phenomena.
-
-- Ionosphere: Solve and plot ionospheric parameters, unraveling the mysteries of the ionosphere.
-
-- Atmosphere: This pipeline focuses on the numerical calculus of aeronomy parameters, providing a deeper understanding of the atmosphere.
+- [Aeronomy-Equations](https://github.com/LuizFillip/Ionosphere):  This pipeline focuses on the numerical calculus of ionospheric and atmospheric parameters, 
 
 ## Numerical Methods
 ### Least-Squares
@@ -48,12 +42,6 @@ Explore coding kata challenges from Code Wars, a platform to improve coding skil
 
 ### Web Scraping
 Learn how to use the Request and BeautifulSoup libraries for web scraping geophysical data from various websites.
-
-# Get Involved
-I am a firm believer in the power of collaboration and welcome contributions from fellow enthusiasts and researchers. If you have any ideas for new projects, code improvements, or general feedback, please feel free to open issues or submit pull requests.
-
-# Contact Me
-If you have any questions, suggestions, or just want to connect, feel free to reach out. You can contact me via email at [luizfillip6@gmail.com].
 
 Thank you for visiting this repository, and I hope you find the projects here both inspiring and informative!
 
