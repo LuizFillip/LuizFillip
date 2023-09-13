@@ -26,15 +26,12 @@ In this repository, you will find a collection of data analysis projects related
 
 - [Aeronomy-Equations](https://github.com/LuizFillip/Ionosphere):  This pipeline focuses on the numerical calculus of ionospheric and atmospheric parameters, 
 
-## Numerical Methods
-### Least-Squares
-Explore the method of least squares implementation using various techniques, including matrix operations, Cramer's rule, and curve fitting (Scipy function).
+## Coding 
+ - [WebSacrape](https://github.com/LuizFillip/Webscrape): Download and website information request
+ - [CodeWars](https://github.com/LuizFillip/CodeWars): Code wars problems solving
+ - [Numerical Methods](https://github.com/LuizFillip/NumericalMethods): See  Fourier Interpolation, Least-Squares implemantion and others
+ - [Junk Code](https://github.com/LuizFillip/JunkCode): Personal python problems solving
 
-### Fourier Interpolation
-Learn about data interpolation using Fourier series, a powerful numerical method for approximating data points.
-
-### Coding Challenges
-Junk Code
 Engage in Python coding exercises and challenges to enhance your coding skills and problem-solving abilities.
 
 ### Code Wars
