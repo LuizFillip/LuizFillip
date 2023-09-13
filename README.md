@@ -1,7 +1,7 @@
 
-# About Me
+# Greetings
 
-Greetings, I am Luiz Fillip, a passionate physicist with a focus on space physics. I hold a degree in Physics from the State University of Paraiba (UEPB) and completed my Master's degree in Physics at the Federal University of Campina Grande (UFCG). Currently, I am a Ph.D. candidate at the prestigious National Institute for Space Research (INPE) in São José dos Campos-SP, Brazil. My research area revolves around space physics, particularly exploring ionosphere-thermosphere coupling, ionospheric irregularities, and atmospheric gravity waves (AGWs). I also specialize in geophysical data analysis.
+I am Luiz Fillip, a passionate physicist with a focus on space physics. I hold a degree in Physics from the State University of Paraiba (UEPB) and completed my Master's degree in Physics at the Federal University of Campina Grande (UFCG). Currently, I am a Ph.D. candidate at the prestigious National Institute for Space Research (INPE) in São José dos Campos-SP, Brazil. My research area revolves around space physics, particularly exploring ionosphere-thermosphere coupling, ionospheric irregularities, and atmospheric gravity waves (AGWs). I also specialize in geophysical data analysis.
 
 # Data Analysis Projects
 In this repository, you will find a collection of data analysis projects related to space weather monitoring and numerical methods. Here are some of the exciting projects you can explore:
@@ -24,21 +24,17 @@ In this repository, you will find a collection of data analysis projects related
 
 - [Aeronomy-models](https://github.com/LuizFillip/Aeronomy-models): Dive into the world of modeled geophysical data (IRI-16, HWM-14, and MSISE-00) and gain valuable insights into atmospheric phenomena.
 
-- [Aeronomy-Equations](https://github.com/LuizFillip/Ionosphere):  This pipeline focuses on the numerical calculus of ionospheric and atmospheric parameters, 
+- [Aeronomy-Equations](https://github.com/LuizFillip/Ionosphere):  This pipeline focuses on the numerical calculus of ionospheric and atmospheric parameters.
+
+## Tools
+
+- [RINEXplorer](https://github.com/LuizFillip/RINEXplorer): Read rinex and sp3 files and get observables for to compute TEC and ionospheric parameters
 
 ## Coding 
- - [WebSacrape](https://github.com/LuizFillip/Webscrape): Download and website information request
- - [CodeWars](https://github.com/LuizFillip/CodeWars): Code wars problems solving
+ - [WebSacrape](https://github.com/LuizFillip/Webscrape): Learn how to use the Request and BeautifulSoup libraries for web scraping geophysical data from various websites.
+ - [CodeWars](https://github.com/LuizFillip/CodeWars):Explore coding kata challenges from Code Wars, a platform to improve coding skills through real coding exercises.
  - [Numerical Methods](https://github.com/LuizFillip/NumericalMethods): See  Fourier Interpolation, Least-Squares implemantion and others
- - [Junk Code](https://github.com/LuizFillip/JunkCode): Personal python problems solving
-
-Engage in Python coding exercises and challenges to enhance your coding skills and problem-solving abilities.
-
-### Code Wars
-Explore coding kata challenges from Code Wars, a platform to improve coding skills through real coding exercises.
-
-### Web Scraping
-Learn how to use the Request and BeautifulSoup libraries for web scraping geophysical data from various websites.
+ - [Junk Code](https://github.com/LuizFillip/JunkCode): Engage in Python coding exercises and challenges to enhance your coding skills and problem-solving abilities.
 
 Thank you for visiting this repository, and I hope you find the projects here both inspiring and informative!
 
