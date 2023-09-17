@@ -1,12 +1,11 @@
 
-# Greetings
+# Greetings :ghost:
 
 I am Luiz Fillip, a passionate physicist with a focus on space physics. I hold a degree in Physics from the State University of Paraiba (UEPB) and completed my Master's degree in Physics at the Federal University of Campina Grande (UFCG). Currently, I am a Ph.D. candidate at the prestigious National Institute for Space Research (INPE) in São José dos Campos-SP, Brazil. My research area revolves around space physics, particularly exploring ionosphere-thermosphere coupling, ionospheric irregularities, and atmospheric gravity waves (AGWs). I also specialize in geophysical data analysis.
 
-# Data Analysis Projects
 In this repository, you will find a collection of data analysis projects related to space weather monitoring and numerical methods. Here are some of the exciting projects you can explore:
 
-## Space Weather Monitoring
+## Space Weather Projects
 
 - [Digisonde](https://github.com/LuizFillip/Digisonde): A pipeline for analyzing reduced data and DRIFT-X measurements (doppler technique) obtained from digisonde instruments. The pipeline provides valuable insights into virtual height, critical frequencies, and other parameters.
 
