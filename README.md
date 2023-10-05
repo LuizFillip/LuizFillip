@@ -18,6 +18,8 @@ In this repository, you will find a collection of data analysis projects related
 - [Imager](https://github.com/LuizFillip/Imager): Dive into the fascinating world of all-sky images processing for a comprehensive understanding of atmospheric phenomena.
 
 - [GEO](https://github.com/LuizFillip/GEO): Gain insights into basic attributes in geophysics, including mapping, terminators, and geomagnetic lines.
+- [GOES]((https://github.com/LuizFillip/GOES)): Extract informations about deep convective storms.
+
 
 - [Aeronomy-plotting](https://github.com/LuizFillip/Aeronomy-plots): Explore various data correlation, timeseries, seasonality, and other plot types for different models and instruments in the field of aeronomy.
 
