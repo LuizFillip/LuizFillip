@@ -32,7 +32,7 @@ In this repository, you will find a collection of data analysis projects related
 - [RINEXplorer](https://github.com/LuizFillip/RINEXplorer): Read rinex and sp3 files and get observables for to compute TEC and ionospheric parameters
 
 ## Coding 
- - [WebSacrape](https://github.com/LuizFillip/Webscrape): Learn how to use the Request and BeautifulSoup libraries for web scraping geophysical data from various websites.
+ - [Webscrape](https://github.com/LuizFillip/Webscrape): Learn how to use the Request and BeautifulSoup libraries for web scraping geophysical data from various websites.
  - [CodeWars](https://github.com/LuizFillip/CodeWars):Explore coding kata challenges from Code Wars, a platform to improve coding skills through real coding exercises.
  - [Numerical Methods](https://github.com/LuizFillip/NumericalMethods): See  Fourier Interpolation, Least-Squares implemantion and others
  - [Junk Code](https://github.com/LuizFillip/JunkCode): Engage in Python coding exercises and challenges to enhance your coding skills and problem-solving abilities.
