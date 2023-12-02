@@ -8,28 +8,20 @@ In this repository, you will find a collection of data analysis projects related
 ## Space Weather Projects
 
 - [Digisonde](https://github.com/LuizFillip/Digisonde): A pipeline for analyzing reduced data and DRIFT-X measurements (doppler technique) obtained from digisonde instruments. The pipeline provides valuable insights into virtual height, critical frequencies, and other parameters.
-
 - [Fabry-Perot](https://github.com/LuizFillip/Fabry-Perot): This pipeline focuses on the analysis of temperature and neutral winds measured by a Fabry-Perot interferometer, providing essential data for atmospheric studies.
-
 - [Magnetometers](https://github.com/LuizFillip/Magnetometers): In this project, we analyze and process data from magnetometers, which provide valuable information about geomagnetic field components.
-
 - [Geophysical Indexes](https://github.com/LuizFillip/PlanetaryIndices): Explore planetary disturbance indexes, including geomagnetic and solar indicators, through informative visualizations and plots.
-
 - [Imager](https://github.com/LuizFillip/Imager): Dive into the fascinating world of all-sky images processing for a comprehensive understanding of atmospheric phenomena.
-
 - [GEO](https://github.com/LuizFillip/GEO): Gain insights into basic attributes in geophysics, including mapping, terminators, and geomagnetic lines.
-- [GOES]((https://github.com/LuizFillip/GOES)): Extract informations about deep convective storms.
-
-
+- [GOES](https://github.com/LuizFillip/GOES): Extract informations about deep convective storms.
+- [DataFetch](https://github.com/LuizFillip/DataFetch): Copy and replacing data across repositories.
 - [Aeronomy-plotting](https://github.com/LuizFillip/Aeronomy-plots): Explore various data correlation, timeseries, seasonality, and other plot types for different models and instruments in the field of aeronomy.
-
 - [Aeronomy-models](https://github.com/LuizFillip/Aeronomy-models): Dive into the world of modeled geophysical data (IRI-16, HWM-14, and MSISE-00) and gain valuable insights into atmospheric phenomena.
-
-- [Aeronomy-Equations](https://github.com/LuizFillip/Ionosphere):  This pipeline focuses on the numerical calculus of ionospheric and atmospheric parameters.
+- [Aeronomy-Equations](https://github.com/LuizFillip/Ionosphere): This pipeline is centered on the numerical calculation of ionospheric and atmospheric parameters.
 
 ## Tools
 
-- [RINEXplorer](https://github.com/LuizFillip/RINEXplorer): Read rinex and sp3 files and get observables for to compute TEC and ionospheric parameters
+- [RINEXplorer](https://github.com/LuizFillip/RINEXplorer): Retrieve data from Rinex and SP3 files to obtain observables for the purpose of computing Total Electron Content (TEC) and ionospheric parameters.
 
 ## Coding 
  - [Webscrape](https://github.com/LuizFillip/Webscrape): Learn how to use the Request and BeautifulSoup libraries for web scraping geophysical data from various websites.
