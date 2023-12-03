@@ -1,7 +1,7 @@
 
 # Greetings :ghost:
 
-I am Luiz Fillip, a passionate physicist with a focus on space physics. I hold a degree in Physics from the State University of Paraiba (UEPB) and completed my Master's degree in Physics at the Federal University of Campina Grande (UFCG). Currently, I am a Ph.D. candidate at the prestigious National Institute for Space Research (INPE) in São José dos Campos-SP, Brazil. My research area revolves around space physics, particularly exploring ionosphere-thermosphere coupling, ionospheric irregularities, and atmospheric gravity waves (AGWs). I also specialize in geophysical data analysis.
+I'm an enthusiastic physicist specializing in space physics. I graduated with a Physics degree from the State University of Paraiba (UEPB) and pursued my Master's degree in Physics at the Federal University of Campina Grande (UFCG). Currently, I'm pursuing my Ph.D. at the esteemed National Institute for Space Research (INPE) in São José dos Campos-SP, Brazil. My research focuses on space physics, specifically delving into ionosphere-thermosphere interactions, studying Equatorial Plasma Bubbles (EPBs). Additionally, I have expertise in geophysical data analysis."
 
 In this repository, you will find a collection of data analysis projects related to space weather monitoring and numerical methods. Here are some of the exciting projects you can explore:
 
