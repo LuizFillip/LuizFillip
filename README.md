@@ -7,8 +7,8 @@ In this repository, you will find a collection of data analysis projects related
 ## Space Weather Projects
 
 - [Digisonde](https://github.com/LuizFillip/Digisonde): A pipeline for analyzing reduced data and DRIFT-X measurements (doppler technique) obtained from digisonde instruments. The pipeline provides valuable insights into virtual height, critical frequencies, and other parameters.
-- [Fabry-Perot](https://github.com/LuizFillip/Fabry-Perot): This pipeline focuses on the analysis of temperature and neutral winds measured by a Fabry-Perot interferometer, providing essential data for atmospheric studies.
-- [Magnetometers](https://github.com/LuizFillip/Magnetometers): In this project, we analyze and process data from magnetometers, which provide valuable information about geomagnetic field components.
+- [Fabry-Perot](https://github.com/LuizFillip/Fabry-Perot): This pipeline focuses on the analysis of temperature and neutral winds measured by a Fabry-Perot interferometer.
+- [Magnetometers](https://github.com/LuizFillip/Magnetometers): In this project, we analyze and process data from EMBRACE magnetometers.
 - [Geophysical Indexes](https://github.com/LuizFillip/PlanetaryIndices): Explore planetary disturbance indexes, including geomagnetic and solar indicators, through informative visualizations and plots.
 - [Imager](https://github.com/LuizFillip/Imager): Dive into the fascinating world of all-sky images processing for a comprehensive understanding of atmospheric phenomena.
 - [GEO](https://github.com/LuizFillip/GEO): Gain insights into basic attributes in geophysics, including mapping, terminators, and geomagnetic lines.
