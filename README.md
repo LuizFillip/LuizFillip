@@ -1,6 +1,6 @@
 
 # Greetings 
-I'm a specializing in space physics. I graduated with a Physics degree from the State University of Paraiba (UEPB) and pursued my Master's degree in Physics at the Federal University of Campina Grande (UFCG). Currently, I'm pursuing my Ph.D. at the esteemed National Institute for Space Research (INPE) in São José dos Campos-SP, Brazil. My research focuses on space physics, specifically delving into ionosphere-thermosphere interactions, studying Equatorial Plasma Bubbles (EPBs).
+I'm a specializing in space physics. I graduated with a Physics degree from the State University of Paraiba (UEPB) and pursued my Master's degree in Physics at the Federal University of Campina Grande (UFCG) and Ph.D. in National Institute for Space Research (INPE) in São José dos Campos-SP, Brazil. My research focuses on space physics, specifically delving into ionosphere-thermosphere interactions, studying Equatorial Plasma Bubbles (EPBs).
 
 In this repository, you will find a collection of data analysis projects related to space weather monitoring and numerical methods. Here are some of the exciting projects you can explore:
 
