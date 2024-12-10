@@ -12,7 +12,6 @@ In this repository, you will find a collection of data analysis projects related
 - [Geophysical Indexes](https://github.com/LuizFillip/PlanetaryIndices): Explore planetary disturbance indexes, including geomagnetic and solar indicators and download indexes files.
 - [GEO](https://github.com/LuizFillip/GEO): Gain insights into basic attributes in geophysics, including mapping, terminators, and geomagnetic lines.
 - [GOES](https://github.com/LuizFillip/GOES): Extract informations about deep convective storms.
-- [DataFetch](https://github.com/LuizFillip/DataFetch): Copy and replacing data across repositories.
 - [Aeronomy-plotting](https://github.com/LuizFillip/Aeronomy-plots): Explore various data correlation, timeseries, seasonality, and other plot types for different models and instruments in the field of aeronomy.
 - [Aeronomy-models](https://github.com/LuizFillip/Aeronomy-models): Dive into the world of modeled geophysical data (IRI-16, HWM-14, and MSISE-00) and data models pipelines.
 - [Aeronomy-Equations](https://github.com/LuizFillip/Ionosphere): This pipeline is centered on the numerical calculation of ionospheric and atmospheric parameters.
