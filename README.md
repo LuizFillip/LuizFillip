@@ -1,4 +1,6 @@
 
+https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif
+
 # Greetings 
 I'm a specializing in space physics. I graduated with a Physics degree from the State University of Paraiba (UEPB) and pursued my Master's degree in Physics at the Federal University of Campina Grande (UFCG) and Ph.D. in National Institute for Space Research (INPE) in São José dos Campos-SP, Brazil. My research focuses on space physics, specifically delving into ionosphere-thermosphere interactions, studying Equatorial Plasma Bubbles (EPBs).
 
