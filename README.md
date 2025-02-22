@@ -42,9 +42,9 @@ This repository contains a collection of **data analysis projects** focused on *
 ### **📑 Aeronomy-Equations**  
 - Computes **ionospheric and atmospheric parameters** through numerical calculations.  
 
-### **⚖️ Rayleigh-Taylor**  
+### **⚖️ 2D Integrated Magnetic field lines (Private)**  
 - Calculates the **Rayleigh-Taylor instability growth rate** from numerical data.  
-
+- Mapping ionospheric and atmospheric parameters along of magnetic field lines [Haerendel et al. 1992](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/91JA02226)
 ---
 
 ## **🛠️ Tools**  
