@@ -1,4 +1,4 @@
-Hello there! 🚀
+# Hello there! 🚀
 
 I specialize in **space physics**, with a strong background in ionosphere-thermosphere interactions and **Equatorial Plasma Bubbles (EPBs)**. I earned my **Bachelor's degree in Physics** from the State University of Paraíba (UEPB), followed by a **Master’s degree in Physics** from the Federal University of Campina Grande (UFCG), and a **Ph.D.** from the National Institute for Space Research (INPE) in São José dos Campos, Brazil.  
 
