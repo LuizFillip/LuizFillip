@@ -6,31 +6,19 @@ This repository contains a collection of **data analysis projects** focused on *
 
 ---
 
-## **🔭 Space Weather Projects**  
+## **🔭 Space Weather Instrumentation 📡**  
 
-### **📡 Digisonde**  
-- A pipeline for analyzing **reduced data and DRIFT-X measurements** (Doppler technique) from digisonde instruments.  
-- Provides insights into **virtual height, critical frequencies,** and other ionospheric parameters.  
+- ** Digisonde **: Analyzing **virtual height, critical frequencies,** and other ionospheric parameters.    
+- ** Fabry-Perot**: **temperature and neutral winds** measured by a Fabry-Perot interferometer.  
+- ** Magnetometers**: Processes and analyzes data from Components of Earth's magnetic field variations.
+- ** GOES Satellite**: Extracts information about **deep convective storms** using GOES satellite data.
+- ** GOLD Satellite: OI137,6 nm observations 
 
-### **🌌 Fabry-Perot**  
-- Analyzes **temperature and neutral winds** measured by a Fabry-Perot interferometer.  
-
-### **🧲 Magnetometers**  
-- Processes and analyzes data from **EMBRACE magnetometers** to study Earth's magnetic field variations.  
-
-### **📊 Geophysical Indexes**  
-- Explores planetary disturbance indexes, including **geomagnetic and solar activity indicators**.  
-- Enables downloading of various geophysical index files.  
-
-### **🌍 GEO**  
-- Provides insights into geophysical attributes such as **mapping, terminators, and geomagnetic field lines**.  
-
-### **⚡ GOES**  
-- Extracts information about **deep convective storms** using GOES satellite data.  
-
-### **🛰️ Aeronomy-Plotting**  
-- Visualizes **data correlations, time series, seasonal trends,** and various plots from multiple models and instruments.  
-
+## **🛠️ Tools**  
+- 🌍 GEO: Provides insights into geophysical attributes such as **mapping, terminators, and geomagnetic field lines**.
+- **Aeronomy-Plotting**: Visualizes **data correlations, time series, seasonal trends,** and various plots from multiple models and instruments.
+- 📊 Geophysical Indexes: Plotting and pipeline of planetary disturbance indexes, including **geomagnetic and solar activity indicators**.
+- 
 ### **📈 Aeronomy-Models**  
 - Processes **modeled geophysical data** from:  
   - IRI-16 (Ionospheric Reference Model)  
@@ -43,9 +31,6 @@ This repository contains a collection of **data analysis projects** focused on *
 ### **📑 2D Integrated Magnetic field lines (Private)**  
 - Calculates the **Rayleigh-Taylor instability growth rate** from numerical data.  
 - Mapping ionospheric and atmospheric parameters along of magnetic field lines [Haerendel et al. 1992](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/91JA02226)
----
-
-## **🛠️ Tools**  
 
 ### **📡 RINEXplorer**  
 - Retrieves data from **RINEX and SP3 files** to compute **Total Electron Content (TEC)** and other ionospheric parameters.  
