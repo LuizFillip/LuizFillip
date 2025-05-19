@@ -15,6 +15,7 @@ This repository contains a collection of **data analysis projects** focused on *
 - **GOLD Satellite** : OI137,6 nm observations
 - **GUVI Satellite** : Column O/N2 observations
 - **GNSS**: Obtaining TEC, ROTI and parameters from RINEX files (private repository)
+- **COSMIC**: Routines for download and process Cosmic 1 and 2 constetllation data
 
 ## **🛠️ Tools**  
 - 🌍 GEO: Provides insights into geophysical attributes such as **mapping, terminators, and geomagnetic field lines**.
