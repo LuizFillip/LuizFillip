@@ -28,9 +28,6 @@ This repository contains a collection of **data analysis projects** focused on *
   - HWM-14 (Horizontal Wind Model)  
   - MSISE-00 (Atmospheric Density Model)  
 
-### **📑 Aeronomy-Equations**  
-- Computes **ionospheric and atmospheric parameters** through numerical calculations.  
-
 ### **📑 2D Integrated Magnetic field lines (Private)**  
 - Calculates the **Rayleigh-Taylor instability growth rate** from numerical data.  
 - Mapping ionospheric and atmospheric parameters along of magnetic field lines [Haerendel et al. 1992](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/91JA02226)
