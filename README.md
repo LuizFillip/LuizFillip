@@ -35,10 +35,6 @@ This repository contains a collection of **data analysis projects** focused on *
 ### **📡 RINEXplorer**  
 - Retrieves data from **RINEX and SP3 files** to compute **Total Electron Content (TEC)** and other ionospheric parameters.  
 
----
-
-## **💻 Coding & Numerical Methods**  
-
 ### **🌐 Web Scraping**  
 - Demonstrates how to use **Requests** and **BeautifulSoup** for scraping geophysical data from various sources.  
 
