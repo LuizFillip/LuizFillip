@@ -41,8 +41,5 @@ This repository contains a collection of **data analysis projects** focused on *
 ### **🏆 CodeWars**  
 - A collection of coding challenges (kata) from **CodeWars**, designed to improve coding skills through real-world exercises.  
 
-### **📊 Numerical Methods**  
-- Implementations of **Fourier Interpolation, Least-Squares fitting**, and other numerical techniques.  
-
 ### **📝 Junk Code**  
 - A space for **Python coding exercises** and **problem-solving challenges** to enhance programming skills.  
