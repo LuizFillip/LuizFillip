@@ -13,7 +13,6 @@ This repository contains a collection of **data analysis projects** focused on *
 - **Magnetometers** : Processes and analyzes data from Components of Earth's magnetic field variations.
 - **GOES Satellite** : Extracts information about **deep convective storms** using GOES satellite data.
 - **GOLD Satellite** : OI137,6 nm observations
-- **GUVI Satellite** : Column O/N2 observations
 - **GNSS**: Obtaining TEC, ROTI and parameters from RINEX files (private repository)
 - **COSMIC**: Routines for download and process Cosmic 1 and 2 constetllation data
 
