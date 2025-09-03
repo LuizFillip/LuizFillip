@@ -20,13 +20,7 @@ This repository contains a collection of **data analysis projects** focused on *
 - 🌍 GEO: Provides insights into geophysical attributes such as **mapping, terminators, and geomagnetic field lines**.
 - **Aeronomy-Plotting**: Visualizes **data correlations, time series, seasonal trends,** and various plots from multiple models and instruments.
 - 📊 Geophysical Indexes: Plotting and pipeline of planetary disturbance indexes, including **geomagnetic and solar activity indicators**.
-- 
-### **📈 Aeronomy-Models**  
-- Processes **modeled geophysical data** from:  
-  - IRI-16 (Ionospheric Reference Model)  
-  - HWM-14 (Horizontal Wind Model)  
-  - MSISE-00 (Atmospheric Density Model)  
-
+  
 ### **📑 2D Integrated Magnetic field lines (Private)**  
 - Calculates the **Rayleigh-Taylor instability growth rate** from numerical data.  
 - Mapping ionospheric and atmospheric parameters along of magnetic field lines [Haerendel et al. 1992](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/91JA02226)
