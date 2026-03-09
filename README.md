@@ -11,7 +11,7 @@ This repository contains a collection of **data analysis projects** focused on *
 Data analysis and main parameters for multi-instrumentation in space wheather:
 
 - **Digisonde** : Virtual height, critical frequencies,** and other ionospheric parameters.    
-- **Fabry-Perot** : **temperature and neutral winds** measured by a Fabry-Perot interferometer.  
+- **Fabry-Perot** : Temperature and neutral winds measured by a Fabry-Perot interferometer.  
 - **Magnetometers** : Components of Earth's magnetic field variations.
 - **GOES Satellite** : Deep convective storms from top cloud temperature.
 - **GOLD Satellite** : OI137,6 nm observations
@@ -27,10 +27,10 @@ Data analysis and main parameters for multi-instrumentation in space wheather:
 - Calculates the **Rayleigh-Taylor instability growth rate** from numerical data.  
 - Mapping ionospheric and atmospheric parameters along of magnetic field lines [Haerendel et al. 1992](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/91JA02226)
 
-### **📡 RINEXplorer**  
-- Retrieves data from **RINEX and SP3 files** to compute **Total Electron Content (TEC)** and other ionospheric parameters.  
+### **📡 xrinex**  
+- Retrieves data from GNSS observables from **RINEX and SP3 files**. Use pandas for data pipeline.
 
-### **🌐 Web Scraping**  
+### **🌐 Web Scraping (scrap repository)**  
 - Demonstrates how to use **Requests** and **BeautifulSoup** for scraping geophysical data from various sources.  
 
 ### **🏆 CodeWars**  
