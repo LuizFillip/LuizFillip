@@ -10,7 +10,7 @@ This repository contains a collection of **data analysis projects** focused on *
 
 Data analysis and main parameters for multi-instrumentation in space wheather:
 
-- **Digisonde** : Virtual height, critical frequencies,** and other ionospheric parameters.    
+- **Digisonde** : Virtual height, critical frequencies, and other ionospheric parameters.    
 - **Fabry-Perot** : Temperature and neutral winds measured by a Fabry-Perot interferometer.  
 - **Magnetometers** : Components of Earth's magnetic field variations.
 - **GOES Satellite** : Deep convective storms from top cloud temperature.
