@@ -31,7 +31,7 @@ Data analysis and main parameters for multi-instrumentation in space wheather:
 - Retrieves data from GNSS observables from **RINEX and SP3 files**. Use pandas for data pipeline.
 
 ### **🌐 Web Scraping (scrap repository)**  
-- Demonstrates how to use **Requests** and **BeautifulSoup** for scraping geophysical data from various sources.  
+- Use **Requests** and **BeautifulSoup** for scraping geophysical data from various FTP sources.  
 
 ### **🏆 CodeWars**  
 - A collection of coding challenges (kata) from **CodeWars**, designed to improve coding skills through real-world exercises.  
