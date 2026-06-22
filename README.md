@@ -1,6 +1,6 @@
 # Hello there! 🚀
 
-**Space physics** data analy, with focus in **Equatorial Plasma Bubbles (EPBs)**. I earned my **Bachelor's degree in Physics** from the State University of Paraíba (UEPB), followed by a **Master’s degree in Physics** from the Federal University of Campina Grande (UFCG), and a **Ph.D.** from the National Institute for Space Research (INPE) in São José dos Campos, Brazil.  
+**Space physics** data analyst, with focus in **Equatorial Plasma Bubbles (EPBs)**. I earned my **Bachelor's degree in Physics** from the State University of Paraíba (UEPB), followed by a **Master’s degree in Physics** from the Federal University of Campina Grande (UFCG), and a **Ph.D.** from the National Institute for Space Research (INPE) in São José dos Campos, Brazil.  
 
 This repository contains a collection of **data analysis projects** focused on **space weather monitoring**, **numerical methods**, and **geophysical modeling**.  
 
