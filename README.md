@@ -17,7 +17,8 @@ Data analysis and main parameters for multi-instrumentation in space wheather:
 - **GOLD Satellite** : OI137,6 nm observations
 - **GNSS**: TEC, ROTI and parameters from RINEX files (private repository)
 - **SABER**: Temperature analysis in global scale
-
+- **wave**: Numerical methods for wave propagation on space weather data
+  
 ## **🛠️ Tools**  
 - 🌍 GEO: Provides insights into geophysical attributes such as **mapping, terminators, and geomagnetic field lines**.
 - **Aeronomy-Plotting**: Visualizes **data correlations, time series, seasonal trends,** and various plots from multiple models and instruments.
