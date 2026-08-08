@@ -18,6 +18,7 @@ Data analysis and main parameters for multi-instrumentation in space wheather:
 - **GNSS**: TEC, ROTI and parameters from RINEX files (private repository)
 - **SABER**: Temperature analysis in global scale
 - **wave**: Numerical methods for wave propagation on space weather data
+- **JAWARA**: Formatting and analysis 
   
 ## **🛠️ Tools**  
 - 🌍 GEO: Provides insights into geophysical attributes such as **mapping, terminators, and geomagnetic field lines**.
